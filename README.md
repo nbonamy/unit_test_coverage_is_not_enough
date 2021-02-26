@@ -1,4 +1,4 @@
-# Unit Test Coverage is useless
+# Unit Test Coverage is not enough
 
 Unit Test Coverage tells you which part of the code are not tested. It does not tell you if they are tested properly.
 
