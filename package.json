@@ -1,0 +1,15 @@
+{
+  "name": "utc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.0",
+    "nyc": "^15.1.0"
+  }
+}
