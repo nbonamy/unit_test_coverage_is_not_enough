@@ -1,7 +1,9 @@
-# unit_test_coverage_is_not_enough
+# Unit Test Coverage is useless
 
-- add function implementation (`index.js`) is obviously wrong
-- unit test (`test/test.js`) is also wrong
+Unit Test Coverage tells you which part of the code are not tested. It does not tell you if they are tested properly.
+
+- add function implementation ([index.js](`index.js`)) is obviously wrong
+- unit test ([test.js](`test/test.js`)) is also wrong
 - but it passes and gets 100% coverage
 
 ```
