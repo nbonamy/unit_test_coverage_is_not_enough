@@ -1,7 +1,7 @@
 # unit_test_coverage_is_not_enough
 
-- add (`index.js`) is obviously wrong
-- unit test (`test/test.js`) is wrong
+- add function implementation (`index.js`) is obviously wrong
+- unit test (`test/test.js`) is also wrong
 - but it passes and gets 100% coverage
 
 ```
